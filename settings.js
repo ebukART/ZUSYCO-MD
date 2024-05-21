@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '©𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐞𝐛𝐮𝐤𝐀𝐑𝐓 𝐁𝐨𝐭',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[𝐞𝐛𝐮𝐤𝐀𝐑𝐓 𝐁𝐨𝐭]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
