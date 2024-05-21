@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "23480221592244",
+  OWNER_NUMBER: "2348022159244",
   SUDO_NUMBERS : "2348022159244,2349065257229",
   OWNER_NAME: "『𝐞𝐛𝐮𝐤𝐀𝐑𝐓』",
   BOT_NAME : "𝐞𝐛𝐮𝐤𝐀𝐑𝐓 𝐁𝐨𝐭",
